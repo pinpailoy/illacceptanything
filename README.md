@@ -276,3 +276,6 @@ HS Graduate Programmers of 2020 add below!
 Visit my homepage! [rgonzalezp.github.io](https://rgonzalezp.github.io/)
 
 Haulec Balec
+
+Hello World from BKK
+![](https://media.giphy.com/media/bEs40jYsdQjmM/giphy.gif)
